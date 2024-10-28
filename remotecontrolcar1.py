@@ -1,5 +1,6 @@
 import math
 import xbox
+import RPi.GPIO as GPIO
 
 GPIO_WHEEL_FL_FORWARD = 2
 GPIO_WHEEL_FR_FORWARD = 3
